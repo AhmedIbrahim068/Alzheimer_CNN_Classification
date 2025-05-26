@@ -7,8 +7,8 @@ This project uses Convolutional Neural Networks (CNN) to classify MRI brain scan
 - ModerateDemented
 
 ## 👨‍🔬 Team
-- Ahmed [Last Name]
-- Kareen [Last Name]
+- Ahmed Ibrahim Khalifa
+- Caren Hany Albert
 
 ## 📌 Problem Statement
 Early and accurate diagnosis of Alzheimer’s Disease is vital for effective treatment. Manual MRI diagnosis is time-consuming and error-prone. This project automates classification using deep learning.
